@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/app.ts",
-  "type": "module",
   "scripts": {
     "dev": "nodemon src/app.ts",
     "start": "nodemon --watch src",
