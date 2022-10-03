@@ -26,7 +26,7 @@ better prices for bid-ask). Response should include both the total amounts and
 prices. 
     - Other endpoint that is called with the pair name, the operation type (buy/sell) and
 the amount to be traded. Should return the effective price that will result if the
-order is executed (i.e. evaluate [Market Depth](https://www.investopedia.com/terms/m/marketdepth.asp).
+order is executed (i.e. evaluate [Market Depth](https://www.investopedia.com/terms/m/marketdepth.asp)).
 3) API should return market values for the following pairs: BTC-USD and ETH-USD. We expect
 to handle unexpected pairs.
 
